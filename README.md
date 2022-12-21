@@ -8,10 +8,15 @@ Text mining, also known as text data mining, is the process of transforming unst
 
 For Text Mining assignment
 
+
 ONE:
 
+
 Perform sentimental analysis on the Elon-musk tweets (Exlon-musk.csv)
+
 TWO:
 
+
 1.Extract reviews of any product from ecommerce website like amazon
+
 2.Perform emotion mining
